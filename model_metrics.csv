@@ -1,0 +1,2 @@
+Model,Train_Accuracy,Test_Accuracy,Features
+Logistic Regression with TF-IDF,0.5862730627306273,0.25442739079102716,5000

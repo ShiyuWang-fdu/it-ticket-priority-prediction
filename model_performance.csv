@@ -1,0 +1,2 @@
+Model,Features,Train_Accuracy,Test_Accuracy,Avg_F1_Score
+Logistic Regression,TF-IDF (max_features=3000),0.5284132841328413,0.26387249114521844,0.26
